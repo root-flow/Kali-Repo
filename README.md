@@ -5,11 +5,22 @@
 Araç Kurulumu Gerekli Adımlar
 
 sudo apt install git 
+
+
 sudo apt install python3
+
+
 sudo apt install python3-pip
+
+
 
 git clone https://github.com/root-flow/Kali-Repo.git
 
 cd Kali-Repo 
+
+
 pip3 install -r requirements.txt
+
+
+
 python3 kalirepo.py 
